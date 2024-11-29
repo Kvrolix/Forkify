@@ -3,6 +3,8 @@
 
 The **Forkify App** is a JavaScript-based application that allows users to search for recipes from a vast database, view detailed cooking instructions, save their favorite recipes as bookmarks, and even upload their own custom recipes. It combines responsive UI, efficient state management, and interactive features to provide an enjoyable cooking experience.
 
+![asppShowcase](assets/ForkifyGif.gif)
+
 ---
 
 ## 🚀 Features
@@ -129,7 +131,17 @@ This project provided insights into modern JavaScript application development, i
 ---
 
 ## 📷 Screenshots
-*Include screenshots or a GIF showcasing the app's features.*
+
+![app1](assets/image1.PNG)
+
+![app2](assets/image2.PNG)
+
+![app3](assets/image3.PNG)
+
+![app4](assets/image4.PNG)
+
+![app5](assets/image5.PNG)
+
 
 ---
 
