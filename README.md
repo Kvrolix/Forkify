@@ -142,6 +142,8 @@ This project provided insights into modern JavaScript application development, i
 
 ![app5](assets/image5.PNG)
 
+![app6](assets/image6.PNG)
+
 
 ---
 
